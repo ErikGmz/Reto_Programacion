@@ -3,5 +3,11 @@
         "activityBar.background": "#4F0069",
         "titleBar.activeBackground": "#6E0093",
         "titleBar.activeForeground": "#FEFBFF"
+    },
+    "files.associations": {
+        "*.js": "javascript",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
