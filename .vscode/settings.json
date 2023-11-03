@@ -8,6 +8,11 @@
         "*.js": "javascript",
         "xstring": "cpp",
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "exception": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "xutility": "cpp"
     }
 }
